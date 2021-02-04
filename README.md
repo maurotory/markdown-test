@@ -69,7 +69,10 @@ elif mode == "prod":
 
 <!--GITHUB MARKDOWN-->
 
+
 - [x] Task 1
 - [x] Task 1
-- [] Task 1
+- [ ] Task 1
 - [x] Task 1
+
+@MauroTory :smiley: :+1:
